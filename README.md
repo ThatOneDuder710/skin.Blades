@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/ThatOneDuder710/skin.Blades/blob/master/resources/screenshot-01.png" width="400" align="middle">
+</p>
+
 ## BLADES 1.x FOR KODI 19 MATRIX
 -Fork of TetradUI
 
