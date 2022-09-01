@@ -1,4 +1,4 @@
-## BLADES 1.x FOR KODI 19 MATRIX
+## BLADES SKIN FOR KODI 20
 <p align="left">
 <img src="https://github.com/ThatOneDuder710/skin.Blades/blob/master/resources/screenshot-02.png" width="800" align="left">
 </p>
