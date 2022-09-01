@@ -20,6 +20,7 @@ script.embuary.helper v2.0.2
 
 ## CREDITS: 
 JX720 Skin by [Jezz_X](https://kodi.tv/addons/matrix/author/jezz_x)
+
 TeamUI:
 [Gade](https://forum.kodi.tv/member.php?action=profile&uid=152411)
 [Manfeed](https://forum.kodi.tv/member.php?action=profile&uid=81541)
