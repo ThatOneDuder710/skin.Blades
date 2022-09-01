@@ -1,12 +1,12 @@
 ## BLADES SKIN FOR KODI 20 (TetradUI Fork)
 <p align="left">
-<img src="https://github.com/ThatOneDuder710/skin.Blades/blob/master/resources/screenshot-02.png" width="800" align="left">
+<img src="https://github.com/ThatOneDuder710/skin.Blades/blob/master/resources/screenshot-02.png" width="810" align="left">
 </p>
 <br>
 
 
 
-## INSTALL:
+##  INSTALL:
 - Install from latest zip
 
 - Requires:
