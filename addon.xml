@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="skin.tetradui" version="1.3.4" name="TetradUI" provider-name="Jezz_X, TeamUI">
+<addon id="skin.Blades" version="1.0" name="Blades" provider-name="ThatOneDuder710 (Original Skin by TeamUI, Jezz_X)">
   <requires>
     <import addon="xbmc.gui" version="5.15.00" />
 	<import addon="script.embuary.helper" version="2.0.2"/>
@@ -10,9 +10,8 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <license>Creative Commons Attribution-Share Alike 3.0 United States</license>
-    <forum>https://forum.kodi.tv/forumdisplay.php?fid=182</forum>
-    <website>https://kodi.wiki/view/Add-on:TetradUI</website>
-    <source>https://github.com/gade01/skin.tetradui</source>
+    <website>https://github.com/ThatOneDuder710/skin.Blades</website>
+    <source>https://github.com/ThatOneDuder710/skin.Blades</source>
     <assets>
       <icon>resources/icon.png</icon>
       <fanart>resources/fanart.jpg</fanart>
@@ -28,8 +27,8 @@
       <screenshot>resources/screenshot-09.png</screenshot>
       <screenshot>resources/screenshot-10.png</screenshot>
     </assets>
-    <news>[B]1.3.4[/B][CR]- Add "Movie set information" label to video information dialog[CR]- Bugfix video codec flagging[CR]- Add spin controls to Favourites and File Browser dialogs</news>
-    <description lang="en_GB">TetradUI is a skin add-on for Kodi media center. The aim with TetradUI is to create a fresh modern homage of the classic blades-style UI found in the original Xbox360 dashboard. Also seen in the works of Team Blackbolt and Jezz_X with projects MC360 and JX720 respectively. TetradUI is based on JX720 by Jezz_X.[CR]This add-on was created by Jezz_X and TeamUI.</description>
-    <summary lang="en_GB">TetradUI is a skin add-on for Kodi media center</summary>
+    <news>[B]FORK[/B][CR]- Blades is a fork of TetradUI</news>
+    <description lang="en_GB">Blades is a fork of TetradUI, a skin add-on for Kodi media center. The aim with TetradUI is to create a fresh modern homage of the classic blades-style UI found in the original Xbox360 dashboard. Also seen in the works of Team Blackbolt and Jezz_X with projects MC360 and JX720 respectively. TetradUI is based on JX720 by Jezz_X.[CR]This add-on was created by Jezz_X and TeamUI, forked by ThatOneDuder710</description>
+    <summary lang="en_GB">Blades is a fork of TetradUI</summary>
   </extension>
 </addon>

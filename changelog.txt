@@ -1,3 +1,10 @@
+[B]Blades[/B]
+- Blades is a fork of TetradUI
+- Modified System Card to view CPU usage instead of IP address
+- Mdified clock/date position to fit the OG Xbox wallapper
+- Changed Busy/loading icon 
+- Changed default walpapers
+____________________
 [B]Version 1.3.4[/B]
 - Add "Movie set information" label to video information dialog
 - Bugfix video codec flagging
