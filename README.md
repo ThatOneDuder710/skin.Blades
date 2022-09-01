@@ -7,7 +7,7 @@
 
 
 ##  INSTALL:
-- Install from latest zip
+- Install from [latest zip](https://github.com/ThatOneDuder710/skin.Blades/releases)
 
 - Requires:
 script.embuary.helper v2.0.2  
