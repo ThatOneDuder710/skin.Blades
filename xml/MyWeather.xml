@@ -20,26 +20,26 @@
 <!-- Blackwash Background -->
 		<control type="group">
 			<animation effect="slide" end="50,0" time="0" condition="Control.HasFocus(1)">Conditional</animation>
-			<top>-95</top>
+			<top>5</top>
 			<control type="image">
 				<description>Background</description>
 				<left>41</left>
 				<width>68</width>
-				<height>910</height>
+				<height>720</height>
 				<texture>background-overlay-blackwash-left-ws.png</texture>
 			</control>
 			<control type="image">
 				<description>Background</description>
 				<left>205r</left>
 				<width>68</width>
-				<height>910</height>
+				<height>720</height>
 				<texture>background-overlay-blackwash-right-ws.png</texture>
 			</control>
 			<control type="image">
 				<description>Background</description>
 				<left>109</left>
 				<width>966</width>
-				<height>910</height>
+				<height>720</height>
 				<texture>background-overlay-blackwash-centertile-ws.png</texture>
 			</control>
 		</control>
@@ -54,7 +54,7 @@
 				<include>HeaderTextCommons</include>
 			</control>
 			<include content="ClockTextCommons">
-				<param name="left" value="540" />
+				<param name="left" value="580" />
 			</include>
 			<control type="grouplist" id="9000">
 				<left>10</left>

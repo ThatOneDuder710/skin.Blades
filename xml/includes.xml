@@ -566,7 +566,8 @@
 		</control>
 	</include>
 	<include name="HeaderTextCommons">
-		<top>25</top>
+		<top>40</top>
+		<left>-20</left>
 		<width>800</width>
 		<height>20</height>
 		<align>left</align>
@@ -593,7 +594,7 @@
 			<visible>!Window.IsVisible(Seekbar)</visible>
 			<include>VisibleFadeEffect</include>
 			<control type="label">
-				<top>11</top>
+				<top>33</top>
 				<left>$PARAM[left]</left>
 				<width>380</width>
 				<height>20</height>
@@ -607,7 +608,7 @@
 			<control type="label">
 				<description>date label</description>
 				<left>$PARAM[left]</left>
-				<top>39</top>
+				<top>53</top>
 				<width>380</width>
 				<height>30</height>
 				<align>right</align>
@@ -870,12 +871,12 @@
 				<texture>DefaultAddonInfoProvider.png</texture>
 			</control>
 			<control type="label">
-				<description>IP Address Label</description>
-				<left>90</left>
-				<top>45</top>
+				<description>CPU Usage Label</description>
+				<left>120</left>
+				<top>50</top>
 				<height>30</height>
-				<width>400</width>
-				<label>$LOCALIZE[31308] $INFO[Network.IPAddress]</label>
+				<width>290</width>
+				<label>CPU usage: $INFO[System.CPUusage]</label>
 				<align>left</align>
 				<aligny>center</aligny>
 				<font>font12</font>
@@ -883,11 +884,11 @@
 				<shadowcolor>black</shadowcolor>
 			</control>
 			<control type="label">
-				<description>CPU Label</description>
-				<left>90</left>
+				<description>RAM Label</description>
+				<left>120</left>
 				<top>75</top>
 				<height>30</height>
-				<width>400</width>
+				<width>290</width>
 				<label>$LOCALIZE[158]: $INFO[System.FreeMemory]</label>
 				<align>left</align>
 				<aligny>center</aligny>
@@ -897,11 +898,11 @@
 			</control>
 			<control type="label">
 				<description>CPU Label</description>
-				<left>90</left>
-				<top>105</top>
+				<left>120</left>
+				<top>100</top>
 				<height>30</height>
-				<width>450</width>
-				<label>Kodi: $INFO[System.BuildVersion]</label>
+				<width>290</width>
+				<label>XBMC: $INFO[System.BuildVersion]</label>
 				<align>left</align>
 				<aligny>center</aligny>
 				<font>font10</font>
@@ -2287,36 +2288,6 @@
 				<showonepage>false</showonepage>
 				<visible>Container($PARAM[container_id]).HasNext | Container($PARAM[container_id]).HasPrevious</visible>
 			</control>
-		</control>
-	</include>
-	<include name="PageLabel">
-		<control type="label">
-			<description>Page label</description>
-			<left>$PARAM[left]</left>
-			<top>$PARAM[top]</top>
-			<width>$PARAM[width]</width>
-			<height>35</height>
-			<align>right</align>
-			<aligny>center</aligny>
-			<textcolor>grey2</textcolor>
-			<font>font12</font>
-			<label>$PARAM[label]</label>
-			<scroll>true</scroll>
-			<visible>!Control.HasFocus($PARAM[id])</visible>
-		</control>
-		<control type="label">
-			<description>Page label focus</description>
-			<left>$PARAM[left]</left>
-			<top>$PARAM[top]</top>
-			<width>$PARAM[width]</width>
-			<height>35</height>
-			<align>right</align>
-			<aligny>center</aligny>
-			<textcolor>orange</textcolor>
-			<font>font12</font>
-			<label>$PARAM[label]</label>
-			<scroll>true</scroll>
-			<visible>Control.HasFocus($PARAM[id])</visible>
 		</control>
 	</include>
 </includes>
