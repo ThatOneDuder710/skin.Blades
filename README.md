@@ -1,28 +1,30 @@
 ## BLADES 1.x FOR KODI 19 MATRIX
-<br>
-<p align="center">
-<img src="https://github.com/ThatOneDuder710/skin.Blades/blob/master/resources/screenshot-01.png" width="800" align="middle">
+<p align="left">
+<img src="https://github.com/ThatOneDuder710/skin.Blades/blob/master/resources/screenshot-02.png" width="800" align="left">
 </p>
-
 <br>
+
 
 
 ## INSTALL:
-Install from latest zip
+- Install from latest zip
 
-Manual installation of the skin can be done by moving the "skin.Blades" folder to your Kodi addons folder
-Requires:
+- Requires:
 script.embuary.helper v2.0.2  
+
 <br>
 
 
-## CREDITS: 
-JX720 Skin by [Jezz_X](https://kodi.tv/addons/matrix/author/jezz_x)
 
-TeamUI:
+## CREDITS: 
+- Blades fork by ThatOneDuder710 |
+
+- TeamUI:
 [Gade](https://forum.kodi.tv/member.php?action=profile&uid=152411)
 [Manfeed](https://forum.kodi.tv/member.php?action=profile&uid=81541)
 [Ch3dd4rGoblin](https://forum.kodi.tv/member.php?action=profile&uid=465378)
+
+- Original JX720 Skin by [Jezz_X](https://kodi.tv/addons/matrix/author/jezz_x)
 <br>
 
 ## LICENSE
