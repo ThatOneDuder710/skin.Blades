@@ -27,6 +27,14 @@ script.embuary.helper v2.0.2
 - Original JX720 Skin by [Jezz_X](https://kodi.tv/addons/matrix/author/jezz_x)
 <br>
 
+## CHANGES
+listed below are the main differences between Blades and TetradUI:
+- Modified System Card to view CPU usage instead of IP address
+- Modified clock/date position
+- Changed Busy/loading icon 
+- Button texture from JX720
+- Background overlay from JX720
+
 ## LICENSE
 This work is licensed under the Creative Commons Attribution-Share Alike 3.0 United States License.
 
