@@ -1,13 +1,9 @@
+## BLADES 1.x FOR KODI 19 MATRIX
+<br>
 <p align="center">
 <img src="https://github.com/ThatOneDuder710/skin.Blades/blob/master/resources/screenshot-01.png" width="800" align="middle">
 </p>
 
-## BLADES 1.x FOR KODI 19 MATRIX
--Fork of TetradUI
-
-The aim with TetradUI is to create a fresh modern homage of the classic blades-style UI found in the original Xbox360 dashboard. Also seen in the works of Team Blackbolt and Jezz_X with projects MC360 and JX720 respectively. TetradUI is based from JX720 by Jezz_X.
-  
-Created by Jezz_X and TeamUI, forked by ThatOneDuder710 
 <br>
 
 
