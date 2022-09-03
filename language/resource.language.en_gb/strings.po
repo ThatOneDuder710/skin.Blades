@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: TetradUI
-# Addon id: skin.tetradui
-# Addon Provider: Jezz_X, TeamUI
+# Addon Name: Blades
+# Addon id: skin.Blades
+# Addon Provider: ThatOneDuder710
 msgid ""
 msgstr ""
 "Project-Id-Version: Kodi Addons\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "TetradUI is a skin Addon for Kodi media center"
+msgid "A modern take on the classic Xbox 360 dashboard"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "TetradUI is a skin add-on for Kodi media center. TetradUI is based on JX720 by Jezz_X.[CR]This add-on was created by TeamUI."
+msgid "Blades is a fork of TetradUI"
 msgstr ""
 
 msgctxt "#31001"
@@ -47,7 +47,7 @@ msgstr ""
 # empty strings from id 31006 to 31009
 
 msgctxt "#31010"
-msgid "TetradUI is a passion project made by TeamUI.[CR]It's a big project and it takes a [I]lot[/I] of effort to develop and maintain.[CR]Consider scanning this QR and make a donation to help keep this project healthy.[CR]Any amount helps greatly and is much appreciated."
+msgid "Blades is a fork of TetradUI"
 msgstr ""
 
 msgctxt "#31011"
