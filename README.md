@@ -10,9 +10,8 @@
 - Install from [latest zip](https://github.com/ThatOneDuder710/skin.Blades/releases)
 
 - Requires:
-[script.embuary.helper v2.0.2](https://github.com/sualfred/script.embuary.helper/releases/)  
+[script.embuary.helper](https://github.com/sualfred/script.embuary.helper/releases/)  
 
-<br>
 
 
 
